@@ -1,0 +1,5 @@
+#Ignore vendor directory
+/vendor/
+
+# Securing .env file containing sensitive data
+.env
