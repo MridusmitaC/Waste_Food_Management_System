@@ -65,7 +65,7 @@ try {
 
 
 
-$twilio_number= "+14158702111";
+$twilio_number= "....";
 
 try{
 $client = new Twilio\Rest\Client($sid, $token);
